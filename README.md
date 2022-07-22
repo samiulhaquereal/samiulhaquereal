@@ -1,6 +1,6 @@
+![Learner](https://i.postimg.cc/sDBtXRvt/B-M-Samiul-Haque-Real.png)
 ### Hi there 👋, I'm B.M.Samiul Haque Real
 #### Learner
-![Learner](https://i.postimg.cc/sDBtXRvt/B-M-Samiul-Haque-Real.png)
 
 💻 I am currently a third year student at Daffodil International 
       University
