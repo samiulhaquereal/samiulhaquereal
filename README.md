@@ -34,7 +34,7 @@ Skills: HTML / CSS / PHP / C / PYTHON
 <a href="https://instagram.com/samiul_real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiul_real" height="30" width="40" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhaquereal&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhaquereal&theme=midnight-purple&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiulhaquereal)  
 
