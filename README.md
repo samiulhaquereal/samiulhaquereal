@@ -1,4 +1,4 @@
-![Learner](https://i.ibb.co/H2HXJcm/B-M-Samiul-Haque-Real.png)
+![Learner](https://i.postimg.cc/MGRW962X/B-M-Samiul-Haque-Real.png)
 ### Hi there 👋, I'm B.M.Samiul Haque Real
 #### Learner
 
