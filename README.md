@@ -9,7 +9,7 @@
       Intelligence, Cloud Computing, Blockchain
 ⚡ Learning every day
 
-Skills: HTML / CSS / PHP / C / PYTHON 
+Skills: HTML / CSS / PHP / MYSQL / C / PYTHON 
 
 - 🔭 I’m currently working on Tigris Production 
 - 🌱 I’m currently learning Machine Learning  
