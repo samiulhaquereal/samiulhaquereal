@@ -26,6 +26,9 @@ Skills: HTML / CSS / PHP / MYSQL / C / PYTHON
 ### Problem Sloving:
 <a href="https://www.beecrowd.com.br/judge/en/profile/421670" target="blank"><img align="center" src="https://i.postimg.cc/pXXxsVc6/large.webp" alt="samiulhaquereal" height="30" width="40" /></a>
 
+### Website:
+<a href="https://sites.google.com/diu.edu.bd/samiulhaquereal" target="blank"><img align="center" src="https://ibb.co/bsQ5dSG" alt="samiulhaquereal" height="30" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samiulhaquereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiulhaquereal" height="30" width="40" /></a>
