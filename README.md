@@ -27,7 +27,7 @@ Skills: HTML / CSS / PHP / MYSQL / C / PYTHON
 <a href="https://www.beecrowd.com.br/judge/en/profile/421670" target="blank"><img align="center" src="https://i.postimg.cc/pXXxsVc6/large.webp" alt="samiulhaquereal" height="30" width="40" /></a>
 
 ### Website:
-<a href="https://sites.google.com/diu.edu.bd/samiulhaquereal" target="blank"><img align="center" src="https://ibb.co/bsQ5dSG" alt="samiulhaquereal" height="30" width="40" /></a>
+<a href="https://sites.google.com/diu.edu.bd/samiulhaquereal" target="blank"><img align="center" src="https://i.ibb.co/k452cRP/373-3730365-web-icons-vector-png-favicon.png" alt="samiulhaquereal" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
