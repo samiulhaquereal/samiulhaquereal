@@ -27,10 +27,10 @@ Skills: HTML / CSS / PHP / MYSQL / C / PYTHON / JAVA
 <a href="https://www.beecrowd.com.br/judge/en/profile/421670" target="blank"><img align="center" src="https://i.postimg.cc/50ZkFHPq/uri.png" alt="samiulhaquereal" height="30" width="40" /></a>
 
 ### Website:
-<a href="https://play.google.com/store/apps/dev?id=5551015295329500291" target="blank"><img align="center" src="https://i.ibb.co/k452cRP/373-3730365-web-icons-vector-png-favicon.png" alt="samiulhaquereal" height="30" width="40" /></a>
+<a href="https://sites.google.com/diu.edu.bd/samiulhaquereal" target="blank"><img align="center" src="https://i.ibb.co/k452cRP/373-3730365-web-icons-vector-png-favicon.png" alt="samiulhaquereal" height="30" width="40" /></a>
 
 ### Google Play Console:
-<a href="https://sites.google.com/diu.edu.bd/samiulhaquereal" target="blank"><img align="center" src="https://i.postimg.cc/t4T7Y78M/download.png" alt="samiulhaquereal" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=5551015295329500291" target="blank"><img align="center" src="https://i.postimg.cc/t4T7Y78M/download.png" alt="samiulhaquereal" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
