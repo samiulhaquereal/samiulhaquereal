@@ -4,14 +4,14 @@
 
 💻 I am currently a third year student at Daffodil International 
       University
-🎓 Currently I am learning Python, Machine Learning
-🚀 I am passionate about Deep Learning, Machine Learning, Artificial 
-      Intelligence, Cloud Computing, Blockchain
+🎓 Currently I am learning Flutter, Machine Learning
+🚀 I am passionate about Android App Developing , Deep Learning, Machine Learning, Artificial 
+      Intelligence.
 ⚡ Learning every day
 
-Skills: HTML / CSS / PHP / MYSQL / C / PYTHON / JAVA
+Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON / PHP
 
-- 🔭 I’m currently working on Tigris Production 
+- 🔭 I’m currently working on ReSoft Ltd 
 - 🌱 I’m currently learning Machine Learning  
 - 📫 How to reach me: samiulreal198@gmail.com 
 
