@@ -3,7 +3,7 @@
 #### Learner
 
 💻 I am currently a Fourth year student at Daffodil International 
-      University
+      University \n
 🎓 Currently I am working on Flutter & Machine Learning
 🚀 I am passionate about Android App Developing , Deep Learning, Machine Learning, Artificial 
       Intelligence.
