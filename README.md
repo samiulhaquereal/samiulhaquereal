@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm B.M.Samiul Haque Real
 #### Learner
 
-💻 I am currently a third year student at Daffodil International 
+💻 I am currently a Fourth year student at Daffodil International 
       University
 🎓 Currently I am learning Flutter, Machine Learning
 🚀 I am passionate about Android App Developing , Deep Learning, Machine Learning, Artificial 
@@ -46,4 +46,6 @@ Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON / PHP
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiulhaquereal)  
 
-![Profile views](https://gpvc.arturio.dev/samiulhaquereal)  
+<a href="https://github.com/samiulhaquereal/">
+       <img src="https://komarev.com/ghpvc/?username=samiulhaquereal" alt="visitors" />
+       </a>  
