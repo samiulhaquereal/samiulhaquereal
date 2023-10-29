@@ -44,7 +44,7 @@ Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON
 <a href="https://instagram.com/samiul_real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiul_real" height="30" width="40" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhaquereal&theme=midnight-purple&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhaquereal&theme=midnight-purple&show_icons=true)  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulhaquereal&show_icons=true&locale=en&layout=compact" alt="samiulhaquereal" /></p>
 
 [![samiulhaquereal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiulhaquereal&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/samiulhaquereal/github-readme-activity-graph)  
 
