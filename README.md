@@ -4,24 +4,27 @@
 
 💻 I am currently a Fourth year student at Daffodil International 
       University
-🎓 Currently I am learning Flutter, Machine Learning
+🎓 Currently I am working on Flutter & Machine Learning
 🚀 I am passionate about Android App Developing , Deep Learning, Machine Learning, Artificial 
       Intelligence.
 ⚡ Learning every day
 
-Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON / PHP
+Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON
 
-- 🔭 I’m currently working on ReSoft Ltd 
+- 🔭 I’m currently working on ReSoft Ltd as a Developer & Teaching Assistant at Daffodil International University
 - 🌱 I’m currently learning Machine Learning  
 - 📫 How to reach me: samiulreal198@gmail.com 
 
 
 ### Technologies and tools I use: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 ### Problem Sloving:
 <a href="https://www.beecrowd.com.br/judge/en/profile/421670" target="blank"><img align="center" src="https://i.postimg.cc/50ZkFHPq/uri.png" alt="samiulhaquereal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/samiulhaque" target="blank"><img align="center" src="https://i.postimg.cc/5NzM1ZMj/community-Icon-xcagst8qta391.png" alt="samiulhaquereal" height="30" width="40" /></a>
