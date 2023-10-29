@@ -44,7 +44,7 @@ Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON / PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhaquereal&theme=midnight-purple&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiulhaquereal)  
+[![samiulhaquereal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiulhaquereal&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/samiulhaquereal/github-readme-activity-graph)  
 
 <a href="https://github.com/samiulhaquereal/">
        <img src="https://komarev.com/ghpvc/?username=samiulhaquereal" alt="visitors" />
