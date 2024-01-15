@@ -1,9 +1,9 @@
 ![Learner](https://i.postimg.cc/tCBVFpK4/B-M-Samiul-Haque-Real.png)
 <h1 align="center">Hi 👋, I'm B.M.Samiul Haque Real</h1>
-<h3 align="center">💻 I am passionate about Android App development, Deep Learning, Machine Learning.</h3>
+<h3 align="center">💻 I am passionate about Android App development.</h3>
 
 - 🔭 I’m currently working on ReSoft Ltd as a Developer & Teaching Assistant at Daffodil International University
-- 🌱 I’m currently learning Machine Learning  
+- 🌱 I’m currently learning Flutter  
 - 📫 How to reach me: samiulreal198@gmail.com 
 
 
