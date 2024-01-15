@@ -1,15 +1,6 @@
 ![Learner](https://i.postimg.cc/tCBVFpK4/B-M-Samiul-Haque-Real.png)
-### Hi there 👋, I'm B.M.Samiul Haque Real
-#### Learner
-
-💻 I am currently a Fourth year student at Daffodil International 
-      University
-🎓 Currently I am working on Flutter & Machine Learning
-🚀 I am passionate about Android App Developing , Deep Learning, Machine Learning, Artificial 
-      Intelligence.
-⚡ Learning every day
-
-Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON
+<h1 align="center">Hi 👋, I'm B.M.Samiul Haque Real</h1>
+<h3 align="center">💻 I am passionate about Android App development, Deep Learning, Machine Learning.</h3>
 
 - 🔭 I’m currently working on ReSoft Ltd as a Developer & Teaching Assistant at Daffodil International University
 - 🌱 I’m currently learning Machine Learning  
@@ -25,7 +16,9 @@ Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### Problem Sloving:
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+### Problem Solving:
 <a href="https://www.beecrowd.com.br/judge/en/profile/421670" target="blank"><img align="center" src="https://i.postimg.cc/50ZkFHPq/uri.png" alt="samiulhaquereal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/samiulhaque" target="blank"><img align="center" src="https://i.postimg.cc/5NzM1ZMj/community-Icon-xcagst8qta391.png" alt="samiulhaquereal" height="30" width="40" /></a>
 
@@ -39,10 +32,14 @@ Skills: Android APP / JAVA / FLUTTER / MYSQL / PYTHON
 <p align="left">
 <a href="https://twitter.com/samiulhaquereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiulhaquereal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samiulhaquereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiulhaquereal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20672922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20672922" height="30" width="40" /></a>
 <a href="https://kaggle.com/samiulhaquereal3057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samiulhaquereal3057" height="30" width="40" /></a>
 <a href="https://fb.com/bmsamiulhaquereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bmsamiulhaquereal" height="30" width="40" /></a>
 <a href="https://instagram.com/samiul_real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiul_real" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/samiulhaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samiulhaque" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiulhaquereal" alt="samiulhaquereal" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulhaquereal&show_icons=true&locale=en&layout=compact" alt="samiulhaquereal" /></p>
 
