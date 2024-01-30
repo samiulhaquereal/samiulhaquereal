@@ -1,4 +1,4 @@
-![Learner](https://i.postimg.cc/tCBVFpK4/B-M-Samiul-Haque-Real.png)
+![Learner](https://cdn.discordapp.com/attachments/775334934172663820/1201884782544560209/B.M.Samiul_Haque_Real.png?ex=65cb716e&is=65b8fc6e&hm=e1316e5983b831da5cda326bbd2893bbf813037e6dcc81c93cbe631a412953af&)
 <h1 align="center">Hi 👋, I'm B.M.Samiul Haque Real</h1>
 <h3 align="center">💻 I am passionate about Android App development.</h3>
 
