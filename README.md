@@ -47,7 +47,16 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhaquereal&theme=midnight-purple&show_icons=true)
 
-[![samiulhaquereal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiulhaquereal&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/samiulhaquereal/github-readme-activity-graph)  
+[![samiulhaquereal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiulhaquereal&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/samiulhaquereal/github-readme-activity-graph)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/samiulhaquereal/samiulhaquereal/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <a href="https://stackoverflow.com/users/20672922/b-m-samiul-haque-real">
        <img alt="Stack Overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
