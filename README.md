@@ -43,7 +43,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiulhaquereal&theme=onedark" alt="samiulhaquereal" /></a> </p>
 
 <h3 align="left">Portfolio:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulhaquereal&show_icons=true&locale=en&layout=compact" alt="samiulhaquereal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulhaquereal&show_icons=true&theme=midnight-purple&locale=en&layout=compact" height="190" alt="samiulhaquereal" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhaquereal&theme=midnight-purple&show_icons=true)
 
