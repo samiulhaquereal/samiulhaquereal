@@ -51,6 +51,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/samiulhaquereal/samiulhaquereal/output/snake.svg" alt="Snake animation" />
 
 ###
