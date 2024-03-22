@@ -1,4 +1,4 @@
-![Learner](https://cdn.discordapp.com/attachments/775334934172663820/1201884782544560209/B.M.Samiul_Haque_Real.png?ex=65f05b6e&is=65dde66e&hm=a87717251b7e6539ce495f2daa9e5523b092bd5c7bebc98065f5bddae947fc43&)
+![Learner](https://firebasestorage.googleapis.com/v0/b/islamicduniya-527ae.appspot.com/o/B.M.Samiul_Haque_Real.png?alt=media&token=dea6f7dc-a2dc-4951-8e99-868d77e4a343)
 <h1 align="center">Hi 👋, I'm B.M.Samiul Haque Real</h1>
 <h3 align="center">💻 I am passionate about Android App development.</h3>
 
