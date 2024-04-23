@@ -53,7 +53,7 @@
 <br>
 </div>
 
-[![samiulhaquereal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiulhaquereal&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/samiulhaquereal/github-readme-activity-graph)  
+[![samiulhaquereal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiulhaquereal&custom_title=Activity&theme=material&hide_border=true)](https://github.com/samiulhaquereal/github-readme-activity-graph)  
 
 <a href="https://stackoverflow.com/users/20672922/b-m-samiul-haque-real">
        <img alt="Stack Overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
