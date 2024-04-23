@@ -47,6 +47,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiulhaquereal&theme=midnight-purple&show_icons=true)
 
+<div align="left">
+  
+  <img src="https://streak-stats.demolab.com?user=samiulhaquereal&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="170" width="500" alt="streak graph"  />
+<br>
+</div>
+
 [![samiulhaquereal github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiulhaquereal&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/samiulhaquereal/github-readme-activity-graph)  
 
 <a href="https://stackoverflow.com/users/20672922/b-m-samiul-haque-real">
