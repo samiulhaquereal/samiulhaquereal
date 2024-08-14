@@ -3,7 +3,7 @@
 <h3 align="center">💻 I am passionate about Android App development.</h3>
 
 - 🔭 I’m currently working on Spectrum Software & Consulting Ltd as a Flutter Developer
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently working as a Junior flutter developer  
 - 📫 How to reach me: samiulreal198@gmail.com 
 
 
